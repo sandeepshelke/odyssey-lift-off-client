@@ -1,4 +1,4 @@
-# Odyssey Lift-off I: Basics
+# Odyssey Lift-off client app
 
 Welcome to the Odyssey Lift-off client app. This is code along completed repo for all five parts
 - [Basics](https://www.apollographql.com/tutorials/lift-off-part1)
